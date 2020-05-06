@@ -1,0 +1,6 @@
+module Pods_whiteCoatPocketGuideProject {
+  umbrella header "Pods-whiteCoatPocketGuideProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
