@@ -19,6 +19,10 @@ resources they may need.
 * User Behavior Tracking Mechanism (Recording the user’s option preference)
 * Concise UI design (Easy to use, User-friendly)
 * Separated administrator portal (Easy to manage the service)
+
+## Front End Architecture
+
+![image](https://github.com/lymmm412/react_native_mobile_app/blob/master/resource/front-end.png)
 ## User platform
 
 ## Administrator platform
