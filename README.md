@@ -8,7 +8,10 @@ With the App, users can easily search and find the medical service they
 need in the categorized resources. Basically, White Coat Pocket Guide App
 serves as a helpful guide to connect the residents to valuable community
 resources they may need.
-## Getting Started
+## Tech Stack
+* Front end: React Native (for both Android and iOS)
+* Back end: no back end since front end fetch data directly from database
+* Database (cloud): MongoDB Atlas
 
 
 ## Features
