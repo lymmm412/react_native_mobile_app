@@ -71,6 +71,7 @@ Admin can add a new medical service in this page by clicking **Create a Category
 
 ### Admin Check Feedback
 This page will load all the feedback stored in MongoDB
+
 <img src="https://github.com/lymmm412/react_native_mobile_app/blob/master/resource/admin-feedback.png" width=50%>
 
 
