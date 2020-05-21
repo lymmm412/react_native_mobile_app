@@ -23,8 +23,25 @@ resources they may need.
 ## Front End Architecture
 
 ![image](https://github.com/lymmm412/react_native_mobile_app/blob/master/resource/front-end.png)
-## User platform
+## Client Portal
+### Client Home
+The first page displayed to users is a home screen with different categories. Users can lookup for more detail by clicking categoies buttons. If the user is an admin, he can switch to admin platform by clicking **Admin Portal**
+<img src="https://github.com/lymmm412/react_native_mobile_app/blob/master/resource/client-home.png" width=50%>
+### Client Service List
+This page will fetch all the services of a selected category from MongoDB. Users can see more detail of a service by clicking the service button. If they want to contact the team, they can find contact information after clicking **Contact Us**
+<img src="https://github.com/lymmm412/react_native_mobile_app/blob/master/resource/client-servicelist.png" width=50%>
 
-## Administrator platform
+### Client Resource List
+By default users would see the name of each resource. If they click the name, the information like contact info and description will be displayed below.
+
+<img src="https://github.com/lymmm412/react_native_mobile_app/blob/master/resource/client-resourcelist.png" width=50%>
+
+### Client Feedback
+If users want to comment, they can give their feedback by clicking **Feedback** button
+
+<img src="https://github.com/lymmm412/react_native_mobile_app/blob/master/resource/client-feedback.png" width=50%>
+
+## Admin Portal
+
 
 
