@@ -10,7 +10,7 @@ serves as a helpful guide to connect the residents to valuable community
 resources they may need.
 
 ## Demo Video
-
+[demo video link](https://drive.google.com/file/d/10LbiwYbpSisrFJQxSHmLY4NIw77WsVIh/view?usp=sharing)
 ## Tech Stack
 * Front end: React Native (for both Android and iOS)
 * Back end: no back end since front end fetch data directly from database
@@ -46,5 +46,5 @@ If users want to comment, they can give their feedback by clicking **Feedback** 
 
 ## Admin Portal
 
-
+### Admin 
 
